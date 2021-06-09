@@ -44,4 +44,4 @@ yarn start
 Para realização de **requisições** na aplicação, deve ser utilizado o **Insomnia** ou **Postman**, importando o [arquivo](requests.json) de requisições já existentes neste diretório.
 Atentar-se aos parâmetros necessários no **Header**.
 
- **Desenvolvido** **por** [**Rafael**](https://www.linkedin.com/in/racmprogrammer/) 🤖
+ **Desenvolvido** **por** [**Rafael**](https://www.linkedin.com/in/racmprogrammer/) 👽
