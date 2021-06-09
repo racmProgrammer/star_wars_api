@@ -15,7 +15,7 @@ As funcionalidades presentes são:
 ```
 https://www.docker.com/get-started
 ```
-**2.** Execute o código abaixo para criar um container com o banco MongoDB
+**2.** Execute o código abaixo no terminal para criar um container com o banco MongoDB
 ```
 docker run --name mongodb -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=b2w -e MONGO_INITDB_ROOT_PASSWORD=b2w mongo
 ```
@@ -41,7 +41,7 @@ yarn start
 ```
 
 ## :floppy_disk: Usando a Aplicação
-Para realização de **requisições** na aplicação, deve ser utilizado o **Insomnia** ou **Postman**, importando o [arquivo](requests.json) de requisições já existente neste diretório.
+Para realização de **requisições** na aplicação, deve ser utilizado o **Insomnia** ou **Postman**, importando o [arquivo](requests.json) de requisições já existentes neste diretório.
 Atentar-se aos parâmetros necessários no **Header**.
 
  **Desenvolvido** **por** [**Rafael**](https://www.linkedin.com/in/racmprogrammer/) 🤖
