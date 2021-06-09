@@ -41,7 +41,7 @@ yarn start
 ```
 
 ## :floppy_disk: Usando a Aplicação
-Para realização de **requisições** na aplicação, deve ser utilizado o **Insomnia** ou **Postman**, importando o [arquivo](insomnia_requests) de requisições já existente neste diretório.
+Para realização de **requisições** na aplicação, deve ser utilizado o **Insomnia** ou **Postman**, importando o [arquivo](requests.json) de requisições já existente neste diretório.
 Atentar-se aos parâmetros necessários no **Header**.
 
  **Desenvolvido** **por** [**Rafael**](https://www.linkedin.com/in/racmprogrammer/) 🤖
